@@ -1,0 +1,21 @@
+.my-nav {
+  background: #C9FFC9;
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.navbar-brand {
+ font-size: 40px;
+ line-height: 40px;
+}
+
+.navbar .nav >li >a:visited{
+    color: #878787;
+    background-color: #C9FFC9;
+}
